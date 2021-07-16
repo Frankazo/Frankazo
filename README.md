@@ -1,4 +1,4 @@
-# Hi there 👋 - I'm Software Developer Intern at CenterCentre
+# Hi there 👋 - I'm Software Developer Intern at CenterCentre UIE
 
 
 
