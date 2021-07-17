@@ -1,4 +1,4 @@
-# Hi there 👋 - I'm Software Developer Intern at CenterCentre UIE <a href="https://twitter.com/FrankazoLR" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="FrankazoLR" height="30" width="40" /></a>
+# Hi there 👋 - I'm Software Developer Intern at CenterCentre UIE <a href="https://twitter.com/FrankazoLR" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="FrankazoLR" height="30" width="40" /></a>
 
 <p align="left"> 
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
