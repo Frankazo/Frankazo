@@ -1,4 +1,4 @@
-# Hi there 👋 - I'm Web Developer Intern at CenterCentre UIE -> <a href="https://www.linkedin.com/in/franklr/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Personal Linkedin Page" height="35" width="35" /></a>
+# Hi there 👋 - I'm a Web Developer Intern at CenterCentre UIE -> <a href="https://www.linkedin.com/in/franklr/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Personal Linkedin Page" height="35" width="35" /></a>
 
 <p align="left"> 
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
